@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Translate" android:icon="@drawable/ic_baseline_translate_24"
+        android:id="@+id/firstFragment"/>
+    <item android:title="Image" android:icon="@drawable/ic_baseline_settings_overscan_24"
+        android:id="@+id/secondFragment"/>
+    <item android:title="Saved" android:icon="@drawable/ic_baseline_archive_24"
+        android:id="@+id/thirdFragment"/>
+
+</menu>
